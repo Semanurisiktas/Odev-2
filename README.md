@@ -1,2 +1,4 @@
 # Odev-2
-Kişisel Sayfamızı Detaylandırmaya Devam Etmek
+<ul>
+  <li> Kişisel Sayfamızı Detaylandırmaya Devam Etmek
+<ul>
